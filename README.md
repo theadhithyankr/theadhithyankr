@@ -1,5 +1,9 @@
-<h1 align="center">Hey nerds, I'm Adhithyan 👾</h1>
-<h3 align="center">Full-time bug creator • Part-time bug fixer • Data hoarder</h3>
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=35&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=ADHITHYAN+K+R" alt="Typing Animation" />
+</h1>
+<h3 align="center" style="color:#00FF00; font-family:monospace; text-shadow: 0 0 5px #00FF00, 0 0 10px #00FF00;">
+  Full-time bug creator • Part-time bug fixer • Data hoarder
+</h3>
 
 <!-- Typing headline (fun but minimal) -->
 <p align="center">
@@ -29,20 +33,6 @@
   <img src="https://streak-stats.demolab.com?user=theadhithyankr&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D&ring=2ECC71&fire=2ECC71&currStreakLabel=2ECC71&background=0D1117" height="180" />
 </p>
 
----
-
-### 🤯 Mind-Blowers
-<p align="center">
-  <!-- Tetris preview GIF (replace the link below after you export your GIF) -->
-  <img src="https://raw.githubusercontent.com/theadhithyankr/theadhithyankr/main/assets/tetris-name-preview.gif" height="180" alt="Tetris pieces forming ADHITHYAN"/>
-  <br/>
-  <a href="https://theadhithyankr.github.io/tetris-name/">
-    <img src="https://img.shields.io/badge/Play%20the%20mini%20game-2ecc71?style=for-the-badge&logo=githubpages&logoColor=white" />
-  </a>
-</p>
-
----
-
 ### 🚀 About Me
 - 🧠 Specializes in **Data Science** (aka making charts look fancy so managers nod)  
 - 🤖 Sometimes pretends to do AI/ML (spoiler: it’s just sklearn)  
@@ -64,8 +54,6 @@
   <!-- Backend / DB -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" title="MySQL - SELECT * FROM excuses"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40" title="Firebase - Google’s toy DB"/>
-  <img src="https://seeklogo.com/images/S/supabase-logo-DCC676FFE2-seeklogo.com.png" width="40" title="Supabase - Postgres but hipster"/>
-
   <!-- Frontend / Mobile -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" title="React - spaghetti renderer"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="40" title="Flutter - Google’s side hustle"/>
@@ -83,17 +71,11 @@
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=theadhithyankr&bg_color=0D1117&color=2ecc71&line=2ecc71&point=ffffff&hide_border=true" />
 </p>
-
-<!-- Optional: contribution snake (requires a one-time GitHub Action setup) -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/theadhithyankr/theadhithyankr/output/github-contribution-grid-snake.svg" alt="snake eating my contributions">
-</p>
-
 ---
 
 ### 🌐 Connect With Me
 <p align="center">
-  <a href="https://www.linkedin.com/in/adhithyan-k-r/"><img src="https://img.shields.io/badge/LinkedIn-Add%20me%20pls-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/adhithyan-k-r/"><img src="https://img.shields.io/badge/LinkedIn-Upgrade%20Your%20Organization-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:theadhithyankr@gmail.com"><img src="https://img.shields.io/badge/Email-Probably%20ignores%20you-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://github.com/theadhithyankr"><img src="https://img.shields.io/badge/GitHub-Professional%20Commit%20Pusher-000?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>

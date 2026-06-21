@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=35&pause=1000&color=007ACC&center=true&vCenter=true&width=600&lines=ADHITHYAN+K+R" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=35&pause=1000&color=007ACC&center=true&vCenter=true&width=700&lines=ADHITHYAN+K+R" alt="Typing Animation" />
 </h1>
 
 <p align="center">
@@ -24,14 +24,14 @@
 
 | Category | Tools & Technologies |
 | :--- | :--- |
-| **Core Languages** | `Python` `JavaScript` `TypeScript` `Java` `R` |
-| **Frameworks & Libs** | `React` `Flutter` `FastAPI` `Django` `Flask` `TailwindCSS` |
-| **Data Science & AI** | `Scikit-Learn` `Pandas` `NumPy` `TensorFlow` |
-| **Infrastructure & Tools**| `Firebase` `MySQL` `Git` `Linux` `Ubuntu` `Postman` `Figma` |
+| **Languages** | `PHP` `JavaScript` `TypeScript` `Python` `R` `Vanilla JS` |
+| **Frontend & Mobile** | `Next.js` `React` `React Native` `Expo` `Flutter` `TailwindCSS` |
+| **Backend & Database** | `Laravel` `FastAPI` `Supabase` `Firebase` `Convex` `MySQL` |
+| **Data & Tools** | `Scikit-Learn` `Pandas` `NumPy` `Vite` `Postman` `Figma` `Git` |
 
-> *The actual loadout:*
+> *The verified loadout:*
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,js,ts,java,r,react,flutter,fastapi,django,flask,tailwind,sklearn,tensorflow,firebase,mysql,git,linux,ubuntu,postman,figma&perline=10" />
+  <img src="https://skillicons.dev/icons?i=php,js,ts,python,r,nextjs,react,tailwind,flutter,laravel,fastapi,supabase,firebase,mysql,vite,sklearn,git,github,vscode,postman,figma&perline=11" />
 </p>
 
 ---

@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <img src="./ticker.svg" alt="News Ticker" width="750" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&pause=1200&color=007ACC&center=true&vCenter=true&width=750&lines=Full-time+bug+creator;Turning+data+into+opinions;If+it+works+on+my+machine%2C+it's+your+problem." />
 </p>
 
 <p align="center">

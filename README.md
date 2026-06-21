@@ -49,7 +49,7 @@
 
 ---
 
-### 🤝 The Inner Circle & High-Value Targets
+### 🤝 Loyal Apprentices
 
 <table>
   <tr>

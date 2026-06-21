@@ -1,14 +1,14 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=35&pause=1000&color=007ACC&center=true&vCenter=true&width=700&lines=ADHITHYAN+K+R" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=35&pause=1000&color=E23636&center=true&vCenter=true&width=700&lines=ADHITHYAN+K+R" alt="Typing Animation" />
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&pause=1200&color=007ACC&center=true&vCenter=true&width=750&lines=Full-time+bug+creator;Turning+data+into+opinions;If+it+works+on+my+machine%2C+it's+your+problem." />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&pause=1200&color=E23636&center=true&vCenter=true&width=750&lines=Full-time+bug+creator;Turning+data+into+opinions;If+it+works+on+my+machine%2C+it's+your+problem." />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Rank-S%20Tier-black?style=for-the-badge&labelColor=111&color=007ACC" />
-  <img src="https://komarev.com/ghpvc/?username=theadhithyankr&label=Stalkers&color=007ACC&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Rank-S%20Tier-black?style=for-the-badge&labelColor=111&color=E23636" />
+  <img src="https://komarev.com/ghpvc/?username=theadhithyankr&label=Stalkers&color=E23636&style=for-the-badge" />
 </p>
 
 ---
@@ -39,11 +39,11 @@
 ### 📈 System Diagnostics
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=theadhithyankr&bg_color=0D1117&color=007ACC&line=007ACC&point=ffffff&hide_border=true" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=theadhithyankr&bg_color=0D1117&color=E23636&line=E23636&point=ffffff&hide_border=true" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=theadhithyankr&theme=radical&hide_border=true&ring=007ACC&fire=007ACC&currStreakLabel=007ACC&background=0D1117" width="48%" />
+  <img src="https://streak-stats.demolab.com?user=theadhithyankr&theme=radical&hide_border=true&ring=E23636&fire=E23636&currStreakLabel=E23636&background=0D1117" width="48%" />
   <img src="https://github-profile-trophy.vercel.app/?username=theadhithyankr&theme=algolia&no-frame=true&margin-w=15" width="48%" />
 </p>
 

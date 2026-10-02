@@ -103,12 +103,13 @@ People who learned from the greatest.
         <sub><b>Nexdrale</b></sub>
       </a>
     </td>
-    <td align="center">
-      <a href="https://github.com/Aswin-sta">
-        <img src="https://github.com/Aswin-sta.png?size=160" width="72" height="72" alt="Aswin" /><br/>
-        <sub><b>Aswin</b></sub>
-      </a>
-    </td>
+   <td align="center">
+  <a href="https://github.com/Aswin-sta">
+    <img src="https://avatars.githubusercontent.com/Aswin-sta"
+         width="72" height="72" alt="Aswin" /><br/>
+    <sub><b>Aswin</b></sub>
+  </a>
+</td>
   </tr>
 </table>
 

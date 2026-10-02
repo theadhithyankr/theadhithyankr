@@ -52,26 +52,18 @@ I'll talk about the rest when it's ready. Probably.
 
 ---
 
-### Tools I reach for
+### How I build
 
-| Area | Stack |
-| :--- | :--- |
-| Languages | TypeScript, JavaScript, Python, PHP, R |
-| Web | Next.js, React, Tailwind CSS |
-| Mobile | React Native, Expo, Flutter |
-| Backend | Laravel, FastAPI |
-| Databases & Platforms | MySQL, Supabase, Firebase, Convex |
-| Data | Pandas, NumPy, scikit-learn |
+I don't have a favourite language or framework.
+I use whatever fits the problem best.
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,python,php,r,nextjs,react,tailwind,flutter,laravel,fastapi,supabase,firebase,mysql,git,github,vscode,postman,figma&perline=10" alt="Technology icons" />
-</p>
-
----
+Sometimes that's something I already know. Sometimes it means
+learning something new. The goal is to build something that works
+well and makes sense to maintain.
 
 ### Loyal apprentices
 
-Good people to build with. Naming this section was entirely my decision.
+People who learned from the greatest.
 
 <table align="center">
   <tr>
@@ -124,11 +116,12 @@ Good people to build with. Naming this section was entirely my decision.
 
 ### Somewhere between commits
 
-Lifting, learning calisthenics, playing football.
+Lifting, learning calisthenics, playing football and Jack of all trades and master of many.
 Sometimes stepping away from the screen fixes the bug.
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=theadhithyankr&bg_color=0D1117&color=E23636&line=E23636&point=ffffff&hide_border=true" width="100%" alt="GitHub contribution activity" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=theadhithyankr&theme=github_dark"
+       width="100%" alt="GitHub contribution summary" />
 </p>
 
 <p align="center">

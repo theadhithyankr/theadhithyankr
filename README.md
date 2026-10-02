@@ -1,74 +1,88 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=35&pause=1000&color=E23636&center=true&vCenter=true&width=700&lines=ADHITHYAN+K+R" alt="Typing Animation" />
-</h1>
+<h1 align="center">Hey, I'm Adhithyan.</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&pause=1200&color=E23636&center=true&vCenter=true&width=750&lines=Full-time+bug+creator;Turning+data+into+opinions;If+it+works+on+my+machine%2C+it's+your+problem." />
+  <strong>Software Engineer · CEO & Founder of Spreadle</strong><br/>
+  I build things, question things, and occasionally rebuild the same thing.
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Rank-S%20Tier-black?style=for-the-badge&labelColor=111&color=E23636" />
-  <img src="https://komarev.com/ghpvc/?username=theadhithyankr&label=Stalkers&color=E23636&style=for-the-badge" />
+  <a href="https://www.linkedin.com/in/adhithyan-k-r/">LinkedIn</a> ·
+  <a href="mailto:theadhithyankr@gmail.com">Email</a> ·
+  <a href="https://www.instagram.com/the.adhithyan/">Instagram</a>
 </p>
 
 ---
 
-### ⚡ Executive Summary
-* **The Routine:** Shipping code that works perfectly... until it hits production.
-* **The Specialty:** Building full-stack systems and throwing data at things until they make sense.
-* **The Philosophy:** If it isn't broken, tweak it until it is, then fix it and call it optimization.
+### A little about me
 
----
+I'm the **CEO and Founder of Spreadle**, where I build websites, apps,
+developer tools, and automation.
 
-### 🛠️ The Tech Arsenal
+I like being involved in the whole process: understanding the problem,
+making the technical decisions, and getting something useful out the door.
 
-| Category | Tools & Technologies |
+AI is part of my workflow. So is reading the code it writes.
+
+Still curious. Still learning. Still convinced that this next side project
+will be a small one.
+
+### Things I work on
+
+Most of what I’m building is still under wraps.
+The not-so-secret stuff? You can explore it [here](https://github.com/theadhithyankr?tab=repositories).
+
+I’ll talk about the rest when it’s ready. Probably.
+
+### Tools I reach for
+
+| Area | Stack |
 | :--- | :--- |
-| **Languages** | `PHP` `JavaScript` `TypeScript` `Python` `R` `Vanilla JS` |
-| **Frontend & Mobile** | `Next.js` `React` `React Native` `Expo` `Flutter` `TailwindCSS` |
-| **Backend & Database** | `Laravel` `FastAPI` `Supabase` `Firebase` `Convex` `MySQL` |
-| **Data & Tools** | `Scikit-Learn` `Pandas` `NumPy` `Vite` `Postman` `Figma` `Git` |
+| Languages | TypeScript, JavaScript, Python, PHP, R |
+| Web | Next.js, React, Tailwind CSS |
+| Mobile | React Native, Expo, Flutter |
+| Backend | Laravel, FastAPI |
+| Databases & Platforms | MySQL, Supabase, Firebase, Convex |
+| Data | Pandas, NumPy, scikit-learn |
 
-> *The verified loadout:*
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=php,js,ts,python,r,nextjs,react,tailwind,flutter,laravel,fastapi,supabase,firebase,mysql,vite,sklearn,git,github,vscode,postman,figma&perline=11" />
-</p>
+### Loyal apprentices
 
----
-
-### 📈 System Diagnostics
+Good people to build with. Naming this section was entirely my decision.
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=theadhithyankr&bg_color=0D1117&color=E23636&line=E23636&point=ffffff&hide_border=true" width="100%" />
+  <a href="https://github.com/NithinMartian"><img src="https://github.com/NithinMartian.png?size=120" width="64" alt="Nithin"/></a>
+  &nbsp;
+  <a href="https://github.com/Awinshaju"><img src="https://github.com/Awinshaju.png?size=120" width="64" alt="Awin"/></a>
+  &nbsp;
+  <a href="https://github.com/Mathew04102004"><img src="https://github.com/Mathew04102004.png?size=120" width="64" alt="Mathew"/></a>
+  &nbsp;
+  <a href="https://github.com/anakha6282"><img src="https://github.com/anakha6282.png?size=120" width="64" alt="Anakha"/></a>
+  &nbsp;
+  <a href="https://github.com/alnasony123"><img src="https://github.com/alnasony123.png?size=120" width="64" alt="Alna"/></a>
+  &nbsp;
+  <a href="https://github.com/Nexdrale"><img src="https://github.com/Nexdrale.png?size=120" width="64" alt="Nexdrale"/></a>
+  &nbsp;
+  <a href="https://github.com/Aswin-sta"><img src="https://github.com/Aswin-sta.png?size=120" width="64" alt="Aswin"/></a>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=theadhithyankr&theme=radical&hide_border=true&ring=E23636&fire=E23636&currStreakLabel=E23636&background=0D1117" width="48%" />
-  <img src="https://github-profile-trophy.vercel.app/?username=theadhithyankr&theme=algolia&no-frame=true&margin-w=15" width="48%" />
+  <a href="https://github.com/NithinMartian">Nithin</a> ·
+  <a href="https://github.com/Awinshaju">Awin</a> ·
+  <a href="https://github.com/Mathew04102004">Mathew</a> ·
+  <a href="https://github.com/anakha6282">Anakha</a> ·
+  <a href="https://github.com/alnasony123">Alna</a> ·
+  <a href="https://github.com/Nexdrale">Nexdrale</a> ·
+  <a href="https://github.com/Aswin-sta">Aswin</a>
 </p>
 
 ---
 
-### 🤝 Loyal Apprentices
+### Somewhere between commits
 
-<table>
-  <tr>
-    <td align="center" width="14%"><a href="https://github.com/NithinMartian"><img src="https://avatars.githubusercontent.com/u/6?v=4" width="60px"/><br/><sub><b>Nithin</b></sub></a></td>
-    <td align="center" width="14%"><a href="https://github.com/Awinshaju"><img src="https://avatars.githubusercontent.com/u/7?v=4" width="60px"/><br/><sub><b>Awin</b></sub></a></td>
-    <td align="center" width="14%"><a href="https://github.com/Mathew04102004"><img src="https://avatars.githubusercontent.com/u/5?v=4" width="60px"/><br/><sub><b>Mathew</b></sub></a></td>
-    <td align="center" width="14%"><a href="https://github.com/anakha6282"><img src="https://avatars.githubusercontent.com/u/2?v=4" width="60px"/><br/><sub><b>Anakha</b></sub></a></td>
-    <td align="center" width="14%"><a href="https://github.com/alnasony123"><img src="https://avatars.githubusercontent.com/u/3?v=4" width="60px"/><br/><sub><b>Alna</b></sub></a></td>
-    <td align="center" width="14%"><a href="https://github.com/Nexdrale"><img src="https://avatars.githubusercontent.com/u/1?v=4" width="60px"/><br/><sub><b>Nexdrale</b></sub></a></td>
-    <td align="center" width="14%"><a href="https://github.com/Aswin-sta"><img src="https://avatars.githubusercontent.com/u/4?v=4" width="60px"/><br/><sub><b>Aswin</b></sub></a></td>
-  </tr>
-</table>
+Lifting, learning calisthenics, playing football.
+Sometimes stepping away from the screen fixes the bug.
 
----
+![Contribution activity](https://github-readme-activity-graph.vercel.app/graph?username=theadhithyankr&bg_color=0D1117&color=E23636&line=E23636&point=ffffff&hide_border=true)
 
-### 🌐 Secure Transmissions
-<p align="left">
-  <a href="https://www.linkedin.com/in/adhithyan-k-r/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:theadhithyankr@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://github.com/theadhithyankr"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="https://www.instagram.com/the.adhithyan/profilecard/?igsh=ZHRicWh5eGdheWtq"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+<p align="center">
+  <sub>Always up for a good project or a conversation about how something works.</sub>
 </p>

@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=17&pause=1800&color=E23636&center=true&vCenter=true&width=700&lines=Building+things.+Figuring+things+out.;This+side+project+was+supposed+to+be+small.;Probably+working+on+something+I+can't+show+you+yet." alt="A little personality" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=17&pause=1800&color=E23636&center=true&vCenter=true&width=700&lines=Building+things.+Figuring+things+out.;I+breathe+air.;Probably+working+on+something+I+can't+show+you+yet." alt="A little personality" />
 </p>
 
 <p align="center">
